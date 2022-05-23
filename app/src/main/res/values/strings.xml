@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="income">Tien thu</string>
+    <string name="outcome">Tien chi</string>
+    <string name="pop_up_date_picker">Pop up date picker</string>
+    <string name="ghi_chu">Ghi chú</string>
+    <string name="ngay">Ngày</string>
+    <string name="add_note">Nhập ghi chú</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_report">Report</string>
+    <string name="month">Thang</string>
+    <string name="year">Nam</string>
+    <string name="icon_item">Icon item</string>
+    <string name="tien_thu">Tiền thu</string>
+    <string name="_0">0</string>
+    <string name="danh_muc">Danh mục</string>
+    <string name="nhap_khoan_thu">Nhập khoản thu</string>
+    <string name="ten_danh_muc">Tên danh mục:</string>
+    <string name="tien_chi">Tiền chi</string>
+    <string name="thu_chi">Thu chi</string>
+    <string name="luu">Lưu</string>
+    <string name="nhap_khoan_chi">Nhập khoản chi</string>
+    <string name="xoa">Xóa</string>
+    <string name="nhap_ten_danh_muc">Nhập tên danh mục</string>
+    <string name="bieu_tuong">Biểu tượng</string>
+    <string name="mau_sac">Màu sắc</string>
+    <string name="khac">Khác</string>
+    <string name="them_vao_cho_do_trong">Thêm vào cho đỡ trống</string>
+    <string name="khoa_mat_ma">Khóa mật mã</string>
+    <string name="nhap_mat_khau">Nhập mật khẩu</string>
+    <string name="xac_nhan_mat_khau">Xác nhận mật khẩu</string>
+    <string name="warning_text">Cố gắng nhớ mật khẩu vì quên mật khẩu là chỉ có nước gỡ app cài lại nhe :)</string>
+
+    <string-array name="monthArray">
+        <item>Thang 1</item>
+        <item>Thang 2</item>
+        <item>Thang 3</item>
+        <item>Thang 4</item>
+        <item>Thang 5</item>
+        <item>Thang 6</item>
+        <item>Thang 7</item>
+        <item>Thang 8</item>
+        <item>Thang 9</item>
+        <item>Thang 10</item>
+        <item>Thang 11</item>
+        <item>Thang 12</item>
+    </string-array>
+
+    <string-array name="colorNameArray">
+        <item>colorPrimary</item>
+        <item>colorPrimaryDark</item>
+        <item>colorPrimaryLight</item>
+        <item>colorAccent</item>
+        <item>colorAccentLight</item>
+        <item>colorAccentDark</item>
+        <item>redOrangeMaterial</item>
+        <item>pinkMaterial</item>
+        <item>purpleMaterial</item>
+        <item>purpleBlueMaterial</item>
+        <item>darkBlueMaterial</item>
+        <item>blueMaterial</item>
+        <item>lightBlueMaterial</item>
+        <item>lighterBlueMaterial</item>
+        <item>greenBlueMaterial</item>
+        <item>greenMaterial</item>
+        <item>yellowGreenMaterial</item>
+        <item>lightYellowMaterial</item>
+        <item>yellowMaterial</item>
+        <item>yellowOrangeMaterial</item>
+        <item>orangeMaterial</item>
+        <item>brightOrangeMaterial</item>
+    </string-array>
+
+    <string-array name="iconNameArray">
+        <item>ic_calendar</item>
+        <item>ic_dish</item>
+        <item>ic_pills</item>
+        <item>ic_shirt</item>
+        <item>ic_soccer_ball</item>
+        <item>ic_track</item>
+        <item>ic_wallet</item>
+        <item>ic_weightlifting</item>
+        <item>ic_book</item>
+        <item>ic_console</item>
+        <item>ic_delete</item>
+    </string-array>
+</resources>
